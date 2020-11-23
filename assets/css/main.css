@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.profile-pic{
+	max-height: 300px;
+}
+
 ol, ul {
 	list-style: none;
 }
