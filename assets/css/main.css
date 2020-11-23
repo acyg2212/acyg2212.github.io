@@ -34,7 +34,8 @@ body {
 }
 
 .profile-pic{
-	max-height: 200px;
+	max-height: 350px;
+	border-radius: 10px;
 }
 
 ol, ul {
